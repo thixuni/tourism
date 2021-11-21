@@ -6,12 +6,12 @@
         <div className="hero" style={{background: 'url("img/img_17.jpg") center no-repeat'}}>
           <div className="container">
             <div className="main-heading">
-              <h1 className="title">Discover</h1>
-              <h2 className="subtitle">watch our Glenn falls Apartment</h2>
+              <h1 className="title">GO.LK</h1>
+              <h2 className="subtitle">Visit our GO.LK Apartment</h2>
             </div>
-            <a href="gallery.html" className="btn btn-gradient">Check it out!
+            <a href="/Contact" className="btn btn-gradient">Check it out!
               <span className="dots"><i className="fa fa-ellipsis-h" /></span>
-            </a>  
+            </a>
           </div>     
         </div>
 
@@ -63,8 +63,8 @@
       <section className="hotels">
         <div className="container">
           <h5 className="section-head">
-            <span className="heading">Explore Glen Falls</span>
-            <span className="sub-heading">Affordable Rooms in Our Beautiful Glen Falls Hotel</span>
+            <span className="heading">Explore GO.LK</span>
+            <span className="sub-heading">Affordable packages in Our Beautiful GO.LK organization</span>
           </h5>
           <div className="grid">
             <div className="grid-item featured-hotel" style={{height: '260px', width: '390px'}}>

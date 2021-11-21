@@ -42,15 +42,15 @@ class AddPostComponent extends Component{
             <div className="row">
                 <div className="col-sm-8 offset-sm-2">
 
-                    <h4 className="mt-2">Add a Post</h4>
+                    <h4 className="mt-2">Add a Package</h4>
                   
                     <form className="mt-4" onSubmit={this.handleSubmit}>
                         <div className="form-group">
-                            <label htmlFor="post-caption">Enter the Airline</label>
+                            <label htmlFor="post-caption">Enter the package name</label>
                             <input type="text" onChange={this.onCaptionChange} className="form-control" id="post-caption" />
                         </div>
                         <div className="form-group">
-                        <label htmlFor="post-description">Type your post</label>
+                        <label htmlFor="post-description">Enter the Description</label>
                         <textarea type="text" onChange={this.onDescriptionChange} className="form-control" id="post-description" ></textarea>
                         </div>
                         
